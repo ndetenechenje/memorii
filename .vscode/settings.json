@@ -1,0 +1,13 @@
+{
+  "yaml.customTags": [
+    "!upload scalar",
+    "!remove scalar",
+    "!keep scalar",
+    "!erase scalar",
+    "!jwt scalar"
+  ],
+  "yaml.schemas": {
+    "https://raw.githubusercontent.com/doanthuanthanh88/testapi6/main/schema.json": "*.yaml"
+  },
+  "cmake.sourceDirectory": "C:/Users/ADMINE/Desktop/flutter/project 2/CAT 1 ACS 314/login_cat/e-commerce app/task app/memorii/memorii/windows/flutter"
+}
